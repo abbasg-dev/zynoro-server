@@ -1,0 +1,2204 @@
+[
+  {
+    "_id": "64a01f12a3b1001",
+    "name": "Apple MacBook Pro 14-inch M4 Pro 24GB 512GB",
+    "description": "Apple MacBook Pro 14-inch M4 Pro 24GB 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 24GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 14-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Space Black</span></p><p><span><strong>Weight</strong> 2.1 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 2499.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 19,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Space Black",
+      "Silver"
+    ],
+    "ram": [
+      "24GB",
+      "48GB"
+    ],
+    "weight": [
+      "2.1 kg"
+    ],
+    "sizes": [
+      "14-inch"
+    ],
+    "rating": 4.8,
+    "numReviews": 8,
+    "orderCount": 153,
+    "priceAfterDiscount": 2249.1
+  },
+  {
+    "_id": "64a01f12a3b1002",
+    "name": "Apple MacBook Air 15-inch M3 16GB 512GB",
+    "description": "Apple MacBook Air 15-inch M3 16GB 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 16GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 15-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Midnight</span></p><p><span><strong>Weight</strong> 1.51 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 1599.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 26,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Midnight",
+      "Starlight",
+      "Silver"
+    ],
+    "ram": [
+      "16GB",
+      "24GB"
+    ],
+    "weight": [
+      "1.51 kg"
+    ],
+    "sizes": [
+      "15-inch"
+    ],
+    "rating": 4.6,
+    "numReviews": 15,
+    "orderCount": 226,
+    "priceAfterDiscount": 1407.12
+  },
+  {
+    "_id": "64a01f12a3b1003",
+    "name": "Dell XPS 16 Intel Core Ultra 9 32GB 1TB",
+    "description": "Dell XPS 16 Intel Core Ultra 9 32GB 1TB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 32GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 16-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Platinum</span></p><p><span><strong>Weight</strong> 2.13 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0003"
+    },
+    "originalPrice": 2299.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 33,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Platinum"
+    ],
+    "ram": [
+      "32GB",
+      "64GB"
+    ],
+    "weight": [
+      "2.13 kg"
+    ],
+    "sizes": [
+      "16-inch"
+    ],
+    "rating": 4.4,
+    "numReviews": 7,
+    "orderCount": 299,
+    "priceAfterDiscount": 1954.15
+  },
+  {
+    "_id": "64a01f12a3b1004",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12 32GB 1TB",
+    "description": "Lenovo ThinkPad X1 Carbon Gen 12 32GB 1TB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 16GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 14-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 1.09 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0004"
+    },
+    "originalPrice": 1899.0,
+    "discount": 13,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 40,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "16GB",
+      "32GB"
+    ],
+    "weight": [
+      "1.09 kg"
+    ],
+    "sizes": [
+      "14-inch"
+    ],
+    "rating": 4.2,
+    "numReviews": 18,
+    "orderCount": 372,
+    "priceAfterDiscount": 1652.13
+  },
+  {
+    "_id": "64a01f12a3b1005",
+    "name": "ASUS ROG Zephyrus G16 RTX 4070 32GB 1TB",
+    "description": "ASUS ROG Zephyrus G16 RTX 4070 32GB 1TB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 32GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 16-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 1.85 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0005"
+    },
+    "originalPrice": 2199.0,
+    "discount": 11,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 47,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "32GB",
+      "64GB"
+    ],
+    "weight": [
+      "1.85 kg"
+    ],
+    "sizes": [
+      "16-inch"
+    ],
+    "rating": 4.9,
+    "numReviews": 11,
+    "orderCount": 445,
+    "priceAfterDiscount": 1957.11
+  },
+  {
+    "_id": "64a01f12a3b1006",
+    "name": "HP Spectre x360 14 OLED Core Ultra 7 32GB",
+    "description": "HP Spectre x360 14 OLED Core Ultra 7 32GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 16GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 14-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Nightfall Black</span></p><p><span><strong>Weight</strong> 1.44 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0006"
+    },
+    "originalPrice": 1699.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 15,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Nightfall Black",
+      "Silver"
+    ],
+    "ram": [
+      "16GB",
+      "32GB"
+    ],
+    "weight": [
+      "1.44 kg"
+    ],
+    "sizes": [
+      "14-inch"
+    ],
+    "rating": 4.7,
+    "numReviews": 21,
+    "orderCount": 518,
+    "priceAfterDiscount": 1529.1
+  },
+  {
+    "_id": "64a01f12a3b1007",
+    "name": "Samsung Galaxy S25 Ultra 512GB",
+    "description": "Samsung Galaxy S25 Ultra 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 12GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.9-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Titanium Black</span></p><p><span><strong>Weight</strong> 0.218 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0002"
+    },
+    "originalPrice": 1399.0,
+    "discount": 8,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 22,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Titanium Black",
+      "Titanium Silver"
+    ],
+    "ram": [
+      "12GB"
+    ],
+    "weight": [
+      "0.218 kg"
+    ],
+    "sizes": [
+      "6.9-inch"
+    ],
+    "rating": 4.5,
+    "numReviews": 16,
+    "orderCount": 111,
+    "priceAfterDiscount": 1287.08
+  },
+  {
+    "_id": "64a01f12a3b1008",
+    "name": "Apple iPhone 16 Pro Max 256GB",
+    "description": "Apple iPhone 16 Pro Max 256GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 8GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.9-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Black Titanium</span></p><p><span><strong>Weight</strong> 0.227 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 1199.0,
+    "discount": 7,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 29,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black Titanium",
+      "Natural Titanium"
+    ],
+    "ram": [
+      "8GB"
+    ],
+    "weight": [
+      "0.227 kg"
+    ],
+    "sizes": [
+      "6.9-inch"
+    ],
+    "rating": 4.3,
+    "numReviews": 24,
+    "orderCount": 184,
+    "priceAfterDiscount": 1115.07
+  },
+  {
+    "_id": "64a01f12a3b1009",
+    "name": "Google Pixel 9 Pro XL 256GB",
+    "description": "Google Pixel 9 Pro XL 256GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 16GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.8-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Obsidian</span></p><p><span><strong>Weight</strong> 0.221 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0007"
+    },
+    "originalPrice": 1099.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 36,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Obsidian",
+      "Porcelain"
+    ],
+    "ram": [
+      "16GB"
+    ],
+    "weight": [
+      "0.221 kg"
+    ],
+    "sizes": [
+      "6.8-inch"
+    ],
+    "rating": 4.1,
+    "numReviews": 19,
+    "orderCount": 257,
+    "priceAfterDiscount": 989.1
+  },
+  {
+    "_id": "64a01f12a3b1010",
+    "name": "OnePlus 13 512GB",
+    "description": "OnePlus 13 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 16GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.82-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.210 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0008"
+    },
+    "originalPrice": 899.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 43,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "16GB"
+    ],
+    "weight": [
+      "0.210 kg"
+    ],
+    "sizes": [
+      "6.82-inch"
+    ],
+    "rating": 4.8,
+    "numReviews": 13,
+    "orderCount": 330,
+    "priceAfterDiscount": 791.12
+  },
+  {
+    "_id": "64a01f12a3b1011",
+    "name": "Samsung Galaxy Z Fold6 512GB",
+    "description": "Samsung Galaxy Z Fold6 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 12GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 7.6-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Navy</span></p><p><span><strong>Weight</strong> 0.239 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0002"
+    },
+    "originalPrice": 1899.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 50,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Navy",
+      "Silver"
+    ],
+    "ram": [
+      "12GB"
+    ],
+    "weight": [
+      "0.239 kg"
+    ],
+    "sizes": [
+      "7.6-inch"
+    ],
+    "rating": 4.6,
+    "numReviews": 9,
+    "orderCount": 403,
+    "priceAfterDiscount": 1614.15
+  },
+  {
+    "_id": "64a01f12a3b1012",
+    "name": "Xiaomi 14 Ultra 512GB",
+    "description": "Xiaomi 14 Ultra 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 16GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.73-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.219 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0009"
+    },
+    "originalPrice": 1099.0,
+    "discount": 9,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 18,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "16GB"
+    ],
+    "weight": [
+      "0.219 kg"
+    ],
+    "sizes": [
+      "6.73-inch"
+    ],
+    "rating": 4.4,
+    "numReviews": 17,
+    "orderCount": 476,
+    "priceAfterDiscount": 1000.09
+  },
+  {
+    "_id": "64a01f12a3b1013",
+    "name": "Sony WH-1000XM5 Wireless Noise Cancelling",
+    "description": "Sony WH-1000XM5 Wireless Noise Cancelling delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.25 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0010"
+    },
+    "originalPrice": 399.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1003"
+    },
+    "countInStock": 25,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.25 kg"
+    ],
+    "sizes": [
+      "Over-Ear"
+    ],
+    "rating": 4.2,
+    "numReviews": 32,
+    "orderCount": 549,
+    "priceAfterDiscount": 339.15
+  },
+  {
+    "_id": "64a01f12a3b1014",
+    "name": "Apple AirPods Max USB-C",
+    "description": "Apple AirPods Max USB-C delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> Midnight</span></p><p><span><strong>Weight</strong> 0.386 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 549.0,
+    "discount": 8,
+    "category": {
+      "_id": "64a01f12a3c1003"
+    },
+    "countInStock": 32,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Midnight",
+      "Starlight",
+      "Blue"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.386 kg"
+    ],
+    "sizes": [
+      "Over-Ear"
+    ],
+    "rating": 4.9,
+    "numReviews": 27,
+    "orderCount": 142,
+    "priceAfterDiscount": 505.08
+  },
+  {
+    "_id": "64a01f12a3b1015",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "description": "Bose QuietComfort Ultra Headphones delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.253 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0011"
+    },
+    "originalPrice": 429.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1003"
+    },
+    "countInStock": 39,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.253 kg"
+    ],
+    "sizes": [
+      "Over-Ear"
+    ],
+    "rating": 4.7,
+    "numReviews": 21,
+    "orderCount": 215,
+    "priceAfterDiscount": 377.52
+  },
+  {
+    "_id": "64a01f12a3b1016",
+    "name": "Sennheiser Momentum 4 Wireless",
+    "description": "Sennheiser Momentum 4 Wireless delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.293 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0012"
+    },
+    "originalPrice": 379.0,
+    "discount": 18,
+    "category": {
+      "_id": "64a01f12a3c1003"
+    },
+    "countInStock": 46,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.293 kg"
+    ],
+    "sizes": [
+      "Over-Ear"
+    ],
+    "rating": 4.5,
+    "numReviews": 14,
+    "orderCount": 288,
+    "priceAfterDiscount": 310.78
+  },
+  {
+    "_id": "64a01f12a3b1017",
+    "name": "Apple Watch Series 10 GPS 46mm",
+    "description": "Apple Watch Series 10 GPS 46mm delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Display</strong> AMOLED display</span></p><p><span><strong>Processor</strong> Modern smartwatch processor</span></p><p><span><strong>Health Sensors</strong> Advanced health sensors</span></p><p><span><strong>GPS</strong> Built-in GPS</span></p><p><span><strong>Battery Life</strong> Multi-day battery life</span></p><p><span><strong>Water Resistance</strong> Water resistant</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Weight</strong> 0.037 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 429.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1004"
+    },
+    "countInStock": 14,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Jet Black",
+      "Rose Gold",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.037 kg"
+    ],
+    "sizes": [
+      "46mm"
+    ],
+    "rating": 4.3,
+    "numReviews": 29,
+    "orderCount": 361,
+    "priceAfterDiscount": 386.1
+  },
+  {
+    "_id": "64a01f12a3b1018",
+    "name": "Samsung Galaxy Watch7 44mm",
+    "description": "Samsung Galaxy Watch7 44mm delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Display</strong> AMOLED display</span></p><p><span><strong>Processor</strong> Modern smartwatch processor</span></p><p><span><strong>Health Sensors</strong> Advanced health sensors</span></p><p><span><strong>GPS</strong> Built-in GPS</span></p><p><span><strong>Battery Life</strong> Multi-day battery life</span></p><p><span><strong>Water Resistance</strong> Water resistant</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Weight</strong> 0.033 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0002"
+    },
+    "originalPrice": 349.0,
+    "discount": 14,
+    "category": {
+      "_id": "64a01f12a3c1004"
+    },
+    "countInStock": 21,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Green",
+      "Silver"
+    ],
+    "ram": [
+      "2GB"
+    ],
+    "weight": [
+      "0.033 kg"
+    ],
+    "sizes": [
+      "44mm"
+    ],
+    "rating": 4.1,
+    "numReviews": 22,
+    "orderCount": 434,
+    "priceAfterDiscount": 300.14
+  },
+  {
+    "_id": "64a01f12a3b1019",
+    "name": "Google Pixel Watch 3 45mm",
+    "description": "Google Pixel Watch 3 45mm delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Display</strong> AMOLED display</span></p><p><span><strong>Processor</strong> Modern smartwatch processor</span></p><p><span><strong>Health Sensors</strong> Advanced health sensors</span></p><p><span><strong>GPS</strong> Built-in GPS</span></p><p><span><strong>Battery Life</strong> Multi-day battery life</span></p><p><span><strong>Water Resistance</strong> Water resistant</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Weight</strong> 0.037 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0007"
+    },
+    "originalPrice": 449.0,
+    "discount": 11,
+    "category": {
+      "_id": "64a01f12a3c1004"
+    },
+    "countInStock": 28,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "2GB"
+    ],
+    "weight": [
+      "0.037 kg"
+    ],
+    "sizes": [
+      "45mm"
+    ],
+    "rating": 4.8,
+    "numReviews": 18,
+    "orderCount": 507,
+    "priceAfterDiscount": 399.61
+  },
+  {
+    "_id": "64a01f12a3b1020",
+    "name": "Garmin Venu 3 GPS Smartwatch",
+    "description": "Garmin Venu 3 GPS Smartwatch delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Display</strong> AMOLED display</span></p><p><span><strong>Processor</strong> Modern smartwatch processor</span></p><p><span><strong>Health Sensors</strong> Advanced health sensors</span></p><p><span><strong>GPS</strong> Built-in GPS</span></p><p><span><strong>Battery Life</strong> Multi-day battery life</span></p><p><span><strong>Water Resistance</strong> Water resistant</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Weight</strong> 0.047 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0013"
+    },
+    "originalPrice": 449.0,
+    "discount": 16,
+    "category": {
+      "_id": "64a01f12a3c1004"
+    },
+    "countInStock": 35,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Ivory"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.047 kg"
+    ],
+    "sizes": [
+      "45mm"
+    ],
+    "rating": 4.6,
+    "numReviews": 12,
+    "orderCount": 100,
+    "priceAfterDiscount": 377.16
+  },
+  {
+    "_id": "64a01f12a3b1021",
+    "name": "Sony Alpha A7 IV Mirrorless Camera",
+    "description": "Sony Alpha A7 IV Mirrorless Camera delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-resolution image sensor</span></p><p><span><strong>Video</strong> 4K video recording</span></p><p><span><strong>Autofocus</strong> Fast subject detection</span></p><p><span><strong>ISO Range</strong> Wide ISO range</span></p><p><span><strong>Connectivity</strong> Wi-Fi and Bluetooth</span></p><p><span><strong>Stabilization</strong> In-body image stabilization</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.658 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0010"
+    },
+    "originalPrice": 2499.0,
+    "discount": 9,
+    "category": {
+      "_id": "64a01f12a3c1005"
+    },
+    "countInStock": 42,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.658 kg"
+    ],
+    "sizes": [
+      "Full Frame"
+    ],
+    "rating": 4.4,
+    "numReviews": 8,
+    "orderCount": 173,
+    "priceAfterDiscount": 2274.09
+  },
+  {
+    "_id": "64a01f12a3b1022",
+    "name": "Canon EOS R6 Mark II Body",
+    "description": "Canon EOS R6 Mark II Body delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-resolution image sensor</span></p><p><span><strong>Video</strong> 4K video recording</span></p><p><span><strong>Autofocus</strong> Fast subject detection</span></p><p><span><strong>ISO Range</strong> Wide ISO range</span></p><p><span><strong>Connectivity</strong> Wi-Fi and Bluetooth</span></p><p><span><strong>Stabilization</strong> In-body image stabilization</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.670 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0014"
+    },
+    "originalPrice": 2499.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1005"
+    },
+    "countInStock": 49,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.670 kg"
+    ],
+    "sizes": [
+      "Full Frame"
+    ],
+    "rating": 4.2,
+    "numReviews": 10,
+    "orderCount": 246,
+    "priceAfterDiscount": 2199.12
+  },
+  {
+    "_id": "64a01f12a3b1023",
+    "name": "Nikon Z6 III Mirrorless Camera",
+    "description": "Nikon Z6 III Mirrorless Camera delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-resolution image sensor</span></p><p><span><strong>Video</strong> 4K video recording</span></p><p><span><strong>Autofocus</strong> Fast subject detection</span></p><p><span><strong>ISO Range</strong> Wide ISO range</span></p><p><span><strong>Connectivity</strong> Wi-Fi and Bluetooth</span></p><p><span><strong>Stabilization</strong> In-body image stabilization</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.760 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0015"
+    },
+    "originalPrice": 2499.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1005"
+    },
+    "countInStock": 17,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.760 kg"
+    ],
+    "sizes": [
+      "Full Frame"
+    ],
+    "rating": 4.9,
+    "numReviews": 7,
+    "orderCount": 319,
+    "priceAfterDiscount": 2249.1
+  },
+  {
+    "_id": "64a01f12a3b1024",
+    "name": "Fujifilm X-T5 Mirrorless Camera",
+    "description": "Fujifilm X-T5 Mirrorless Camera delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-resolution image sensor</span></p><p><span><strong>Video</strong> 4K video recording</span></p><p><span><strong>Autofocus</strong> Fast subject detection</span></p><p><span><strong>ISO Range</strong> Wide ISO range</span></p><p><span><strong>Connectivity</strong> Wi-Fi and Bluetooth</span></p><p><span><strong>Stabilization</strong> In-body image stabilization</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.557 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1510127034890-ba27508e9f1c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0016"
+    },
+    "originalPrice": 1699.0,
+    "discount": 14,
+    "category": {
+      "_id": "64a01f12a3c1005"
+    },
+    "countInStock": 24,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.557 kg"
+    ],
+    "sizes": [
+      "APS-C"
+    ],
+    "rating": 4.7,
+    "numReviews": 15,
+    "orderCount": 392,
+    "priceAfterDiscount": 1461.14
+  },
+  {
+    "_id": "64a01f12a3b1025",
+    "name": "Logitech MX Keys S Wireless Keyboard",
+    "description": "Logitech MX Keys S Wireless Keyboard delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Switches</strong> Premium mechanical/membrane switches</span></p><p><span><strong>Connectivity</strong> Bluetooth and USB connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Backlight</strong> Adjustable backlight</span></p><p><span><strong>Layout</strong> Full Size</span></p><p><span><strong>Compatibility</strong> Windows/macOS compatible</span></p><p><span><strong>Color</strong> Graphite</span></p><p><span><strong>Weight</strong> 0.810 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0017"
+    },
+    "originalPrice": 119.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1006"
+    },
+    "countInStock": 31,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Graphite",
+      "Pale Gray"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.810 kg"
+    ],
+    "sizes": [
+      "Full Size"
+    ],
+    "rating": 4.5,
+    "numReviews": 38,
+    "orderCount": 465,
+    "priceAfterDiscount": 95.2
+  },
+  {
+    "_id": "64a01f12a3b1026",
+    "name": "Keychron Q1 Pro Mechanical Keyboard",
+    "description": "Keychron Q1 Pro Mechanical Keyboard delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Switches</strong> Premium mechanical/membrane switches</span></p><p><span><strong>Connectivity</strong> Bluetooth and USB connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Backlight</strong> Adjustable backlight</span></p><p><span><strong>Layout</strong> 75%</span></p><p><span><strong>Compatibility</strong> Windows/macOS compatible</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 1.72 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0018"
+    },
+    "originalPrice": 199.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1006"
+    },
+    "countInStock": 38,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "1.72 kg"
+    ],
+    "sizes": [
+      "75%"
+    ],
+    "rating": 4.3,
+    "numReviews": 26,
+    "orderCount": 538,
+    "priceAfterDiscount": 169.15
+  },
+  {
+    "_id": "64a01f12a3b1027",
+    "name": "Apple Magic Keyboard with Touch ID",
+    "description": "Apple Magic Keyboard with Touch ID delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Switches</strong> Premium mechanical/membrane switches</span></p><p><span><strong>Connectivity</strong> Bluetooth and USB connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Backlight</strong> Adjustable backlight</span></p><p><span><strong>Layout</strong> Full Size</span></p><p><span><strong>Compatibility</strong> Windows/macOS compatible</span></p><p><span><strong>Color</strong> White</span></p><p><span><strong>Weight</strong> 0.369 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 149.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1006"
+    },
+    "countInStock": 45,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "White",
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.369 kg"
+    ],
+    "sizes": [
+      "Full Size"
+    ],
+    "rating": 4.1,
+    "numReviews": 31,
+    "orderCount": 131,
+    "priceAfterDiscount": 134.1
+  },
+  {
+    "_id": "64a01f12a3b1028",
+    "name": "Razer BlackWidow V4 Pro Mechanical Keyboard",
+    "description": "Razer BlackWidow V4 Pro Mechanical Keyboard delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Switches</strong> Premium mechanical/membrane switches</span></p><p><span><strong>Connectivity</strong> Bluetooth and USB connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Backlight</strong> Adjustable backlight</span></p><p><span><strong>Layout</strong> Full Size</span></p><p><span><strong>Compatibility</strong> Windows/macOS compatible</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 1.14 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0019"
+    },
+    "originalPrice": 229.0,
+    "discount": 18,
+    "category": {
+      "_id": "64a01f12a3c1006"
+    },
+    "countInStock": 13,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "1.14 kg"
+    ],
+    "sizes": [
+      "Full Size"
+    ],
+    "rating": 4.8,
+    "numReviews": 20,
+    "orderCount": 204,
+    "priceAfterDiscount": 187.78
+  },
+  {
+    "_id": "64a01f12a3b1029",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "description": "Logitech MX Master 3S Wireless Mouse delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-precision optical sensor</span></p><p><span><strong>DPI</strong> Up to 30,000 DPI</span></p><p><span><strong>Buttons</strong> Programmable buttons</span></p><p><span><strong>Connectivity</strong> Wireless/Bluetooth connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Tracking</strong> Accurate tracking</span></p><p><span><strong>Color</strong> Graphite</span></p><p><span><strong>Weight</strong> 0.141 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0017"
+    },
+    "originalPrice": 99.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1007"
+    },
+    "countInStock": 20,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Graphite",
+      "Pale Gray"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.141 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.6,
+    "numReviews": 45,
+    "orderCount": 277,
+    "priceAfterDiscount": 79.2
+  },
+  {
+    "_id": "64a01f12a3b1030",
+    "name": "Razer DeathAdder V3 Pro Wireless Mouse",
+    "description": "Razer DeathAdder V3 Pro Wireless Mouse delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-precision optical sensor</span></p><p><span><strong>DPI</strong> Up to 30,000 DPI</span></p><p><span><strong>Buttons</strong> Programmable buttons</span></p><p><span><strong>Connectivity</strong> Wireless/Bluetooth connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Tracking</strong> Accurate tracking</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.063 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0019"
+    },
+    "originalPrice": 149.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1007"
+    },
+    "countInStock": 27,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.063 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.4,
+    "numReviews": 34,
+    "orderCount": 350,
+    "priceAfterDiscount": 126.65
+  },
+  {
+    "_id": "64a01f12a3b1031",
+    "name": "Apple Magic Mouse USB-C",
+    "description": "Apple Magic Mouse USB-C delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-precision optical sensor</span></p><p><span><strong>DPI</strong> Up to 30,000 DPI</span></p><p><span><strong>Buttons</strong> Programmable buttons</span></p><p><span><strong>Connectivity</strong> Wireless/Bluetooth connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Tracking</strong> Accurate tracking</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.099 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 79.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1007"
+    },
+    "countInStock": 34,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.099 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.2,
+    "numReviews": 28,
+    "orderCount": 423,
+    "priceAfterDiscount": 71.1
+  },
+  {
+    "_id": "64a01f12a3b1032",
+    "name": "SteelSeries Aerox 5 Wireless Gaming Mouse",
+    "description": "SteelSeries Aerox 5 Wireless Gaming Mouse delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Sensor</strong> High-precision optical sensor</span></p><p><span><strong>DPI</strong> Up to 30,000 DPI</span></p><p><span><strong>Buttons</strong> Programmable buttons</span></p><p><span><strong>Connectivity</strong> Wireless/Bluetooth connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Tracking</strong> Accurate tracking</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.074 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0020"
+    },
+    "originalPrice": 129.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1007"
+    },
+    "countInStock": 41,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.074 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.9,
+    "numReviews": 19,
+    "orderCount": 496,
+    "priceAfterDiscount": 113.52
+  },
+  {
+    "_id": "64a01f12a3b1033",
+    "name": "Dell UltraSharp 32 4K USB-C Monitor",
+    "description": "Dell UltraSharp 32 4K USB-C Monitor delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Panel</strong> IPS/OLED panel</span></p><p><span><strong>Resolution</strong> 4K/QHD resolution</span></p><p><span><strong>Refresh Rate</strong> High refresh rate</span></p><p><span><strong>Response Time</strong> Low response time</span></p><p><span><strong>Connectivity</strong> USB-C, HDMI and DisplayPort</span></p><p><span><strong>HDR</strong> HDR support</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 8.6 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0003"
+    },
+    "originalPrice": 899.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1008"
+    },
+    "countInStock": 48,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "8.6 kg"
+    ],
+    "sizes": [
+      "32-inch"
+    ],
+    "rating": 4.7,
+    "numReviews": 16,
+    "orderCount": 89,
+    "priceAfterDiscount": 764.15
+  },
+  {
+    "_id": "64a01f12a3b1034",
+    "name": "LG UltraGear 27GS95QE OLED Gaming Monitor",
+    "description": "LG UltraGear 27GS95QE OLED Gaming Monitor delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Panel</strong> IPS/OLED panel</span></p><p><span><strong>Resolution</strong> 4K/QHD resolution</span></p><p><span><strong>Refresh Rate</strong> High refresh rate</span></p><p><span><strong>Response Time</strong> Low response time</span></p><p><span><strong>Connectivity</strong> USB-C, HDMI and DisplayPort</span></p><p><span><strong>HDR</strong> HDR support</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 7.03 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0021"
+    },
+    "originalPrice": 899.0,
+    "discount": 18,
+    "category": {
+      "_id": "64a01f12a3c1008"
+    },
+    "countInStock": 16,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "7.03 kg"
+    ],
+    "sizes": [
+      "27-inch"
+    ],
+    "rating": 4.5,
+    "numReviews": 23,
+    "orderCount": 162,
+    "priceAfterDiscount": 737.18
+  },
+  {
+    "_id": "64a01f12a3b1035",
+    "name": "Samsung Odyssey G7 32-inch QHD Gaming Monitor",
+    "description": "Samsung Odyssey G7 32-inch QHD Gaming Monitor delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Panel</strong> IPS/OLED panel</span></p><p><span><strong>Resolution</strong> 4K/QHD resolution</span></p><p><span><strong>Refresh Rate</strong> High refresh rate</span></p><p><span><strong>Response Time</strong> Low response time</span></p><p><span><strong>Connectivity</strong> USB-C, HDMI and DisplayPort</span></p><p><span><strong>HDR</strong> HDR support</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 8.6 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0002"
+    },
+    "originalPrice": 699.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1008"
+    },
+    "countInStock": 23,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "8.6 kg"
+    ],
+    "sizes": [
+      "32-inch"
+    ],
+    "rating": 4.3,
+    "numReviews": 30,
+    "orderCount": 235,
+    "priceAfterDiscount": 559.2
+  },
+  {
+    "_id": "64a01f12a3b1036",
+    "name": "ASUS ProArt 27-inch 4K Monitor",
+    "description": "ASUS ProArt 27-inch 4K Monitor delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Panel</strong> IPS/OLED panel</span></p><p><span><strong>Resolution</strong> 4K/QHD resolution</span></p><p><span><strong>Refresh Rate</strong> High refresh rate</span></p><p><span><strong>Response Time</strong> Low response time</span></p><p><span><strong>Connectivity</strong> USB-C, HDMI and DisplayPort</span></p><p><span><strong>HDR</strong> HDR support</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 7.6 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1551645120-d70bfe84c826?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0005"
+    },
+    "originalPrice": 599.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1008"
+    },
+    "countInStock": 30,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "7.6 kg"
+    ],
+    "sizes": [
+      "27-inch"
+    ],
+    "rating": 4.1,
+    "numReviews": 11,
+    "orderCount": 308,
+    "priceAfterDiscount": 527.12
+  },
+  {
+    "_id": "64a01f12a3b1037",
+    "name": "Sonos Era 300 Smart Speaker",
+    "description": "Sonos Era 300 Smart Speaker delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Audio</strong> Premium stereo audio</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Battery Life</strong> Long playback battery</span></p><p><span><strong>Water Resistance</strong> Water-resistant design</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Physical/touch controls</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 4.47 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0022"
+    },
+    "originalPrice": 449.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1009"
+    },
+    "countInStock": 37,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "4.47 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.8,
+    "numReviews": 18,
+    "orderCount": 381,
+    "priceAfterDiscount": 404.1
+  },
+  {
+    "_id": "64a01f12a3b1038",
+    "name": "Bose SoundLink Max Bluetooth Speaker",
+    "description": "Bose SoundLink Max Bluetooth Speaker delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Audio</strong> Premium stereo audio</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Battery Life</strong> Long playback battery</span></p><p><span><strong>Water Resistance</strong> Water-resistant design</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Physical/touch controls</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 2.13 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0011"
+    },
+    "originalPrice": 399.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1009"
+    },
+    "countInStock": 44,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Blue"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "2.13 kg"
+    ],
+    "sizes": [
+      "Portable"
+    ],
+    "rating": 4.6,
+    "numReviews": 24,
+    "orderCount": 454,
+    "priceAfterDiscount": 339.15
+  },
+  {
+    "_id": "64a01f12a3b1039",
+    "name": "JBL Charge 5 Portable Bluetooth Speaker",
+    "description": "JBL Charge 5 Portable Bluetooth Speaker delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Audio</strong> Premium stereo audio</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Battery Life</strong> Long playback battery</span></p><p><span><strong>Water Resistance</strong> Water-resistant design</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Physical/touch controls</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.96 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0023"
+    },
+    "originalPrice": 179.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1009"
+    },
+    "countInStock": 12,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Blue",
+      "Red"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.96 kg"
+    ],
+    "sizes": [
+      "Portable"
+    ],
+    "rating": 4.4,
+    "numReviews": 37,
+    "orderCount": 527,
+    "priceAfterDiscount": 143.2
+  },
+  {
+    "_id": "64a01f12a3b1040",
+    "name": "Marshall Emberton III Bluetooth Speaker",
+    "description": "Marshall Emberton III Bluetooth Speaker delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Audio</strong> Premium stereo audio</span></p><p><span><strong>Connectivity</strong> Bluetooth and Wi-Fi</span></p><p><span><strong>Battery Life</strong> Long playback battery</span></p><p><span><strong>Water Resistance</strong> Water-resistant design</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Physical/touch controls</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.67 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0024"
+    },
+    "originalPrice": 169.0,
+    "discount": 13,
+    "category": {
+      "_id": "64a01f12a3c1009"
+    },
+    "countInStock": 19,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Cream"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.67 kg"
+    ],
+    "sizes": [
+      "Portable"
+    ],
+    "rating": 4.2,
+    "numReviews": 15,
+    "orderCount": 120,
+    "priceAfterDiscount": 147.03
+  },
+  {
+    "_id": "64a01f12a3b1041",
+    "name": "Breville Barista Express Espresso Machine",
+    "description": "Breville Barista Express Espresso Machine delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Type</strong> Automatic espresso system</span></p><p><span><strong>Pressure</strong> High-pressure extraction</span></p><p><span><strong>Water Tank</strong> Large water tank</span></p><p><span><strong>Milk System</strong> Integrated milk system</span></p><p><span><strong>Controls</strong> Easy digital controls</span></p><p><span><strong>Programs</strong> Multiple drink programs</span></p><p><span><strong>Color</strong> Stainless Steel</span></p><p><span><strong>Weight</strong> 10.6 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0025"
+    },
+    "originalPrice": 699.0,
+    "discount": 12,
+    "category": {
+      "_id": "64a01f12a3c1010"
+    },
+    "countInStock": 26,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Stainless Steel",
+      "Black"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "10.6 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.9,
+    "numReviews": 17,
+    "orderCount": 193,
+    "priceAfterDiscount": 615.12
+  },
+  {
+    "_id": "64a01f12a3b1042",
+    "name": "DeLonghi Magnifica Evo Automatic Coffee Machine",
+    "description": "DeLonghi Magnifica Evo Automatic Coffee Machine delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Type</strong> Automatic espresso system</span></p><p><span><strong>Pressure</strong> High-pressure extraction</span></p><p><span><strong>Water Tank</strong> Large water tank</span></p><p><span><strong>Milk System</strong> Integrated milk system</span></p><p><span><strong>Controls</strong> Easy digital controls</span></p><p><span><strong>Programs</strong> Multiple drink programs</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 9.5 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0026"
+    },
+    "originalPrice": 799.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1010"
+    },
+    "countInStock": 33,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "9.5 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.7,
+    "numReviews": 13,
+    "orderCount": 266,
+    "priceAfterDiscount": 679.15
+  },
+  {
+    "_id": "64a01f12a3b1043",
+    "name": "Nespresso Vertuo Plus Coffee Machine",
+    "description": "Nespresso Vertuo Plus Coffee Machine delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Type</strong> Automatic espresso system</span></p><p><span><strong>Pressure</strong> High-pressure extraction</span></p><p><span><strong>Water Tank</strong> Large water tank</span></p><p><span><strong>Milk System</strong> Integrated milk system</span></p><p><span><strong>Controls</strong> Easy digital controls</span></p><p><span><strong>Programs</strong> Multiple drink programs</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 4.6 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0027"
+    },
+    "originalPrice": 179.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1010"
+    },
+    "countInStock": 40,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "4.6 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.5,
+    "numReviews": 41,
+    "orderCount": 339,
+    "priceAfterDiscount": 143.2
+  },
+  {
+    "_id": "64a01f12a3b1044",
+    "name": "Philips 5400 Series Automatic Espresso Machine",
+    "description": "Philips 5400 Series Automatic Espresso Machine delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Type</strong> Automatic espresso system</span></p><p><span><strong>Pressure</strong> High-pressure extraction</span></p><p><span><strong>Water Tank</strong> Large water tank</span></p><p><span><strong>Milk System</strong> Integrated milk system</span></p><p><span><strong>Controls</strong> Easy digital controls</span></p><p><span><strong>Programs</strong> Multiple drink programs</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 8.0 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1517244683847-7456b63c5969?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1445116572660-236099ec97a0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0028"
+    },
+    "originalPrice": 999.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1010"
+    },
+    "countInStock": 47,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "Silver"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "8.0 kg"
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "rating": 4.3,
+    "numReviews": 9,
+    "orderCount": 412,
+    "priceAfterDiscount": 899.1
+  },
+  {
+    "_id": "64a01f12a3b1045",
+    "name": "Apple MacBook Pro 16-inch M3 Max 36GB 1TB",
+    "description": "Apple MacBook Pro 16-inch M3 Max 36GB 1TB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 36GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 16-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Space Black</span></p><p><span><strong>Weight</strong> 2.14 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 3499.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1001"
+    },
+    "countInStock": 15,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Space Black",
+      "Silver"
+    ],
+    "ram": [
+      "36GB",
+      "48GB",
+      "128GB"
+    ],
+    "weight": [
+      "2.14 kg"
+    ],
+    "sizes": [
+      "16-inch"
+    ],
+    "rating": 4.1,
+    "numReviews": 124,
+    "orderCount": 485,
+    "priceAfterDiscount": 3149.1
+  },
+  {
+    "_id": "64a01f12a3b1046",
+    "name": "Samsung Galaxy S25 256GB",
+    "description": "Samsung Galaxy S25 256GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Flagship mobile processor</span></p><p><span><strong>Memory</strong> 12GB memory</span></p><p><span><strong>Storage</strong> 256GB-512GB storage</span></p><p><span><strong>Display</strong> 6.2-inch high-resolution display</span></p><p><span><strong>Battery</strong> All-day battery with fast charging</span></p><p><span><strong>Camera</strong> Advanced multi-camera system</span></p><p><span><strong>Connectivity</strong> 5G, Wi-Fi and Bluetooth</span></p><p><span><strong>Color</strong> Navy</span></p><p><span><strong>Weight</strong> 0.162 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0002"
+    },
+    "originalPrice": 899.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1002"
+    },
+    "countInStock": 22,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Navy",
+      "Silver",
+      "Black"
+    ],
+    "ram": [
+      "12GB"
+    ],
+    "weight": [
+      "0.162 kg"
+    ],
+    "sizes": [
+      "6.2-inch"
+    ],
+    "rating": 4.8,
+    "numReviews": 35,
+    "orderCount": 558,
+    "priceAfterDiscount": 809.1
+  },
+  {
+    "_id": "64a01f12a3b1047",
+    "name": "Apple AirPods Pro 2 USB-C",
+    "description": "Apple AirPods Pro 2 USB-C delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> White</span></p><p><span><strong>Weight</strong> 0.050 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 249.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1011"
+    },
+    "countInStock": 29,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.050 kg"
+    ],
+    "sizes": [
+      "In-Ear"
+    ],
+    "rating": 4.6,
+    "numReviews": 67,
+    "orderCount": 151,
+    "priceAfterDiscount": 224.1
+  },
+  {
+    "_id": "64a01f12a3b1048",
+    "name": "Logitech MX Mechanical Wireless Keyboard",
+    "description": "Logitech MX Mechanical Wireless Keyboard delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Switches</strong> Premium mechanical/membrane switches</span></p><p><span><strong>Connectivity</strong> Bluetooth and USB connectivity</span></p><p><span><strong>Battery Life</strong> Long battery life</span></p><p><span><strong>Backlight</strong> Adjustable backlight</span></p><p><span><strong>Layout</strong> Full Size</span></p><p><span><strong>Compatibility</strong> Windows/macOS compatible</span></p><p><span><strong>Color</strong> Graphite</span></p><p><span><strong>Weight</strong> 0.828 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0017"
+    },
+    "originalPrice": 149.0,
+    "discount": 15,
+    "category": {
+      "_id": "64a01f12a3c1006"
+    },
+    "countInStock": 36,
+    "isFeatured": false,
+    "shipping": true,
+    "returnable": true,
+    "trend": false,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Graphite"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.828 kg"
+    ],
+    "sizes": [
+      "Full Size"
+    ],
+    "rating": 4.4,
+    "numReviews": 33,
+    "orderCount": 224,
+    "priceAfterDiscount": 126.65
+  },
+  {
+    "_id": "64a01f12a3b1049",
+    "name": "Sony WH-CH720N Wireless Headphones",
+    "description": "Sony WH-CH720N Wireless Headphones delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Driver</strong> Premium audio drivers</span></p><p><span><strong>Noise Cancellation</strong> Adaptive active noise cancellation</span></p><p><span><strong>Battery Life</strong> Up to 30 hours</span></p><p><span><strong>Connectivity</strong> Bluetooth wireless connectivity</span></p><p><span><strong>Microphones</strong> Built-in microphones</span></p><p><span><strong>Controls</strong> Touch/buttons</span></p><p><span><strong>Color</strong> Black</span></p><p><span><strong>Weight</strong> 0.192 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0010"
+    },
+    "originalPrice": 149.0,
+    "discount": 20,
+    "category": {
+      "_id": "64a01f12a3c1003"
+    },
+    "countInStock": 43,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Black",
+      "White"
+    ],
+    "ram": [
+      "N/A"
+    ],
+    "weight": [
+      "0.192 kg"
+    ],
+    "sizes": [
+      "Over-Ear"
+    ],
+    "rating": 4.2,
+    "numReviews": 52,
+    "orderCount": 297,
+    "priceAfterDiscount": 119.2
+  },
+  {
+    "_id": "64a01f12a3b1050",
+    "name": "Apple iPad Pro 13-inch M4 16GB 512GB",
+    "description": "Apple iPad Pro 13-inch M4 16GB 512GB delivers a premium combination of performance, design, reliability, and everyday usability.",
+    "richDescription": "<p><span><strong>Processor</strong> Intel/Apple/AMD high-performance processor</span></p><p><span><strong>Memory</strong> 16GB configurable memory</span></p><p><span><strong>Storage</strong> 512GB-1TB SSD</span></p><p><span><strong>Display</strong> 13-inch high-resolution display</span></p><p><span><strong>Battery Life</strong> All-day battery life</span></p><p><span><strong>Ports</strong> USB-C, USB-A, HDMI and wireless connectivity</span></p><p><span><strong>Color</strong> Space Black</span></p><p><span><strong>Weight</strong> 0.58 kg</span></p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+    ],
+    "brand": {
+      "_id": "78b01f12a3c0001"
+    },
+    "originalPrice": 1299.0,
+    "discount": 10,
+    "category": {
+      "_id": "64a01f12a3c1012"
+    },
+    "countInStock": 24,
+    "isFeatured": true,
+    "shipping": true,
+    "returnable": true,
+    "trend": true,
+    "returnPeriod": "14 Days",
+    "shippingInfo": "Free express shipping within 2-3 business days.",
+    "color": [
+      "Space Black",
+      "Silver"
+    ],
+    "ram": [
+      "16GB",
+      "24GB"
+    ],
+    "weight": [
+      "0.58 kg"
+    ],
+    "sizes": [
+      "13-inch"
+    ],
+    "rating": 4.8,
+    "numReviews": 44,
+    "orderCount": 412,
+    "priceAfterDiscount": 1169.1
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "64a01f12a3c1001",
+    "name": "Laptops"
+  },
+  {
+    "_id": "64a01f12a3c1002",
+    "name": "Phones"
+  },
+  {
+    "_id": "64a01f12a3c1003",
+    "name": "Headphones"
+  },
+  {
+    "_id": "64a01f12a3c1004",
+    "name": "Smartwatches"
+  },
+  {
+    "_id": "64a01f12a3c1005",
+    "name": "Cameras"
+  },
+  {
+    "_id": "64a01f12a3c1006",
+    "name": "Keyboards"
+  },
+  {
+    "_id": "64a01f12a3c1007",
+    "name": "Mice"
+  },
+  {
+    "_id": "64a01f12a3c1008",
+    "name": "Monitors"
+  },
+  {
+    "_id": "64a01f12a3c1009",
+    "name": "Speakers"
+  },
+  {
+    "_id": "64a01f12a3c1010",
+    "name": "Coffee Machines"
+  },
+  {
+    "_id": "64a01f12a3c1011",
+    "name": "Earbuds"
+  },
+  {
+    "_id": "64a01f12a3c1012",
+    "name": "Tablets"
+  }
+]
