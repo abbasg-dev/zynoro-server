@@ -2,6 +2,7 @@ import { Schema, model, type Document } from "mongoose";
 
 export interface ICategory extends Document {
   name: string;
+  isTopCategory: boolean;
 }
 
 const categorySchema = new Schema<ICategory>(
@@ -11,6 +12,13 @@ const categorySchema = new Schema<ICategory>(
       required: true,
       unique: true,
       trim: true,
+      index: true,
+    },
+
+    isTopCategory: {
+      type: Boolean,
+      required: true,
+      default: false,
       index: true,
     },
   },

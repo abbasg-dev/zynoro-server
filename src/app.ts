@@ -12,11 +12,7 @@ import { reviewRouter } from "./routes/review.routes.js";
 
 export const app = express();
 
-app.use(
-  cors({
-    origin: env.CLIENT_URL,
-  }),
-);
+app.use(cors());
 
 app.use(express.json());
 

@@ -18,6 +18,7 @@ type SeedBrand = {
 type SeedCategory = {
   _id: string;
   name: string;
+  isTopCategory: boolean;
 };
 
 type SeedReview = {
@@ -150,6 +151,26 @@ const validateProductReferences = (
   }
 };
 
+const validateCategories = (categories: SeedCategory[]) => {
+  const topCategories = categories.filter(
+    (category) => category.isTopCategory === true,
+  );
+
+  if (topCategories.length !== 6) {
+    throw new Error(
+      `categories.json must contain exactly 6 top categories. Found ${topCategories.length}.`,
+    );
+  }
+
+  for (const category of categories) {
+    if (typeof category.isTopCategory !== "boolean") {
+      throw new Error(
+        `Category "${category.name}" must have a boolean isTopCategory value.`,
+      );
+    }
+  }
+};
+
 const main = async () => {
   console.log("Starting database seed...");
 
@@ -189,6 +210,8 @@ const main = async () => {
   assertNoDuplicateIds(brands, "brands.json");
 
   assertNoDuplicateIds(categories, "categories.json");
+
+  validateCategories(categories);
 
   /*
    * Products may or may not have _id values.
@@ -251,6 +274,7 @@ const main = async () => {
   const categoryDocuments = categories.map((category) => ({
     _id: categoryObjectIds.get(category._id)!,
     name: category.name,
+    isTopCategory: category.isTopCategory,
   }));
 
   /*
@@ -433,7 +457,7 @@ const main = async () => {
     const insertedBrands = await BrandModel.find().select("_id name").lean();
 
     const insertedCategories = await CategoryModel.find()
-      .select("_id name")
+      .select("_id name isTopCategory")
       .lean();
 
     const insertedBrandIds = new Set(

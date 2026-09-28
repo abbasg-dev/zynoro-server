@@ -1,50 +1,62 @@
 [
   {
     "_id": "64a01f12a3c1001",
-    "name": "Laptops"
+    "name": "Laptops",
+    "isTopCategory": true
   },
   {
     "_id": "64a01f12a3c1002",
-    "name": "Phones"
+    "name": "Phones",
+    "isTopCategory": true
   },
   {
     "_id": "64a01f12a3c1003",
-    "name": "Headphones"
+    "name": "Headphones",
+    "isTopCategory": true
   },
   {
     "_id": "64a01f12a3c1004",
-    "name": "Smartwatches"
+    "name": "Smartwatches",
+    "isTopCategory": true
   },
   {
     "_id": "64a01f12a3c1005",
-    "name": "Cameras"
+    "name": "Cameras",
+    "isTopCategory": true
   },
   {
     "_id": "64a01f12a3c1006",
-    "name": "Keyboards"
+    "name": "Keyboards",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1007",
-    "name": "Mice"
+    "name": "Mice",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1008",
-    "name": "Monitors"
+    "name": "Monitors",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1009",
-    "name": "Speakers"
+    "name": "Speakers",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1010",
-    "name": "Coffee Machines"
+    "name": "Coffee Machines",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1011",
-    "name": "Earbuds"
+    "name": "Earbuds",
+    "isTopCategory": false
   },
   {
     "_id": "64a01f12a3c1012",
-    "name": "Tablets"
+    "name": "Tablets",
+    "isTopCategory": true
   }
 ]
