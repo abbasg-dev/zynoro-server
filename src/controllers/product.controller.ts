@@ -158,15 +158,27 @@ export const getProductById = async (req: Request, res: Response) => {
   });
 };
 
-export const getFeaturedProducts = async (_req: Request, res: Response) => {
-  const products = await ProductModel.find({
+export const getFeaturedProducts = async (req: Request, res: Response) => {
+  const { count } = req.params;
+  const { category } = req.query;
+
+  const filter: {
+    isFeatured: boolean;
+    category?: string;
+  } = {
     isFeatured: true,
-  })
-    .populate("brand", "name")
+  };
+
+  if (typeof category === "string" && category.trim()) {
+    filter.category = category;
+  }
+
+  const products = await ProductModel.find(filter)
     .populate("category", "name")
     .sort({
       orderCount: -1,
     })
+    .limit(Number(count))
     .lean();
 
   return res.json({
@@ -174,19 +186,43 @@ export const getFeaturedProducts = async (_req: Request, res: Response) => {
   });
 };
 
-export const getTrendingProducts = async (_req: Request, res: Response) => {
-  const products = await ProductModel.find({
+export const getTrendingProducts = async (req: Request, res: Response) => {
+  const { count } = req.params;
+
+  const filter: {
+    isFeatured: boolean;
+    trend: boolean;
+  } = {
+    isFeatured: false,
     trend: true,
-  })
-    .populate("brand", "name")
-    .populate("category", "name")
+  };
+
+  const products = await ProductModel.find(filter)
+    .populate("name")
     .sort({
-      discount: -1,
       orderCount: -1,
     })
+    .limit(Number(count))
     .lean();
 
   return res.json({
     products,
+  });
+};
+
+export const getHighestPrice = async (req: Request, res: Response) => {
+  const highestProduct = await ProductModel.findOne()
+    .sort({ originalPrice: -1 })
+    .select("originalPrice")
+    .lean();
+
+  if (!highestProduct) {
+    return res.status(404).json({
+      message: "No products found",
+    });
+  }
+
+  return res.json({
+    highestPrice: highestProduct.originalPrice,
   });
 };

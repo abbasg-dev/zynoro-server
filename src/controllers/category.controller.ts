@@ -12,6 +12,11 @@ export const getCategoryList = async (_req: Request, res: Response) => {
 export const getTopCategories = async (_req: Request, res: Response) => {
   const categories = await CategoryModel.aggregate([
     {
+      $match: {
+        isTopCategory: true,
+      },
+    },
+    {
       $lookup: {
         from: "products",
         localField: "_id",
@@ -21,6 +26,7 @@ export const getTopCategories = async (_req: Request, res: Response) => {
     },
     {
       $project: {
+        _id: 1,
         name: 1,
         productCount: {
           $size: "$products",

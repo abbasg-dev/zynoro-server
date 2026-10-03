@@ -14,7 +14,6 @@ const categorySchema = new Schema<ICategory>(
       trim: true,
       index: true,
     },
-
     isTopCategory: {
       type: Boolean,
       required: true,

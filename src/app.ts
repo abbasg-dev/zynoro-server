@@ -6,9 +6,9 @@ import { env } from "./config/env.js";
 import { authRouter } from "./routes/auth.routes.js";
 import { categoryRouter } from "./routes/category.routes.js";
 import { productRouter } from "./routes/product.routes.js";
-import { userRouter } from "./routes/user.routes.js";
 import { orderRouter } from "./routes/order.routes.js";
 import { reviewRouter } from "./routes/review.routes.js";
+import { brandRouter } from "./routes/brand.routes.js";
 
 export const app = express();
 
@@ -30,11 +30,11 @@ apiRouter.use("/categories", categoryRouter);
 
 apiRouter.use("/products", productRouter);
 
-apiRouter.use("/users", userRouter);
-
 apiRouter.use("/orders", orderRouter);
 
 apiRouter.use("/reviews", reviewRouter);
+
+apiRouter.use("/brands", brandRouter);
 
 app.use(env.API_URL, apiRouter);
 

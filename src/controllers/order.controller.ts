@@ -160,3 +160,35 @@ export const getMyOrders = async (req: Request, res: Response) => {
     orders: formattedOrders,
   });
 };
+
+export const markOrderAsPaid = async (req: Request, res: Response) => {
+  if (!req.userId) {
+    return res.status(401).json({ message: "Authentication required" });
+  }
+
+  const { orderId } = req.params;
+  const { paymentIntentId } = req.body;
+
+  const order = await OrderModel.findOne({
+    _id: orderId,
+    user: req.userId,
+  });
+
+  if (!order) {
+    return res.status(404).json({ message: "Order not found" });
+  }
+
+  order.paid = true;
+  order.paidAt = new Date();
+  order.status = "paid";
+  if (paymentIntentId) {
+    order.paymentIntentId = paymentIntentId;
+  }
+
+  await order.save();
+
+  return res.status(200).json({
+    message: "Order marked as paid successfully",
+    order,
+  });
+};

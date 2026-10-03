@@ -16,6 +16,32 @@ const getReviewId = (req: Request): string => {
   return String(req.params.reviewId);
 };
 
+const formatReviewPayload = (review: any, currentUserId?: string) => {
+  const reviewObj =
+    typeof review.toObject === "function" ? review.toObject() : review;
+
+  const reviewUserId = reviewObj.user?._id
+    ? reviewObj.user._id.toString()
+    : reviewObj.user?.toString();
+
+  const isOwner = Boolean(currentUserId && reviewUserId === currentUserId);
+  const isLiked = Boolean(
+    currentUserId &&
+    reviewObj.likes?.some((id: any) => id.toString() === currentUserId),
+  );
+  const isDisliked = Boolean(
+    currentUserId &&
+    reviewObj.dislikes?.some((id: any) => id.toString() === currentUserId),
+  );
+
+  return {
+    ...reviewObj,
+    isOwner,
+    isLiked,
+    isDisliked,
+  };
+};
+
 const findReview = (
   product: { reviews: IReview[] },
   reviewId: string,
@@ -51,21 +77,15 @@ const recalculateProductRating = (
  */
 export const addReview = async (req: Request, res: Response) => {
   if (!req.userId) {
-    return res.status(401).json({
-      message: "Authentication required",
-    });
+    return res.status(401).json({ message: "Authentication required" });
   }
 
   const productId = getProductId(req);
-
   if (!mongoose.Types.ObjectId.isValid(productId)) {
-    return res.status(400).json({
-      message: "Invalid product ID",
-    });
+    return res.status(400).json({ message: "Invalid product ID" });
   }
 
   const parsed = addReviewSchema.safeParse(req.body);
-
   if (!parsed.success) {
     return res.status(400).json({
       message: "Invalid review data",
@@ -74,54 +94,52 @@ export const addReview = async (req: Request, res: Response) => {
   }
 
   const product = await ProductModel.findById(productId);
-
   if (!product) {
-    return res.status(404).json({
-      message: "Product not found",
-    });
+    return res.status(404).json({ message: "Product not found" });
   }
 
   const userId = req.userId;
-
   const existingReview = product.reviews.find(
     (review) => review.user.toString() === userId,
   );
 
   if (existingReview) {
-    return res.status(409).json({
-      message: "You have already reviewed this product",
-    });
+    return res
+      .status(409)
+      .json({ message: "You have already reviewed this product" });
   }
 
   const user = await UserModel.findById(userId).select(
-    "_id username displayName",
+    "_id username displayName photoURL", // Added photoURL
   );
 
   if (!user) {
-    return res.status(404).json({
-      message: "User not found",
-    });
+    return res.status(404).json({ message: "User not found" });
   }
 
-  product.reviews.push({
+  const newReview = {
     _id: new mongoose.Types.ObjectId(),
-    user: user._id,
+    user: user,
     rating: parsed.data.rating,
     comment: parsed.data.comment,
     likes: [],
     dislikes: [],
     createdAt: new Date(),
     updatedAt: new Date(),
-  });
+  };
+
+  product.reviews.push(newReview as any);
 
   const ratingData = recalculateProductRating(product.reviews);
-
   product.rating = ratingData.rating;
   product.numReviews = ratingData.numReviews;
 
   await product.save();
 
-  const createdReview = product.reviews[product.reviews.length - 1];
+  const createdReview = formatReviewPayload(
+    product.reviews[product.reviews.length - 1],
+    userId,
+  );
 
   return res.status(201).json({
     review: createdReview,
@@ -136,25 +154,23 @@ export const getReviews = async (req: Request, res: Response) => {
   const productId = getProductId(req);
 
   if (!mongoose.Types.ObjectId.isValid(productId)) {
-    return res.status(400).json({
-      message: "Invalid product ID",
-    });
+    return res.status(400).json({ message: "Invalid product ID" });
   }
 
   const product = await ProductModel.findById(productId).populate(
     "reviews.user",
-    "_id username displayName",
+    "_id username displayName photoURL",
   );
 
   if (!product) {
-    return res.status(404).json({
-      message: "Product not found",
-    });
+    return res.status(404).json({ message: "Product not found" });
   }
 
-  const reviews = [...product.reviews].sort(
-    (a, b) => b.createdAt.getTime() - a.createdAt.getTime(),
-  );
+  const currentUserId = req.userId;
+
+  const reviews = [...product.reviews]
+    .sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime())
+    .map((review) => formatReviewPayload(review, currentUserId));
 
   return res.json({
     reviews,
