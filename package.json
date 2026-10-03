@@ -6,9 +6,7 @@
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
-    "start": "node dist/server.js",
-    "seed": "tsx src/scripts/seed.ts",
-    "update-product-images": "tsx src/scripts/update-product-images.ts"
+    "start": "node dist/server.js"
   },
   "dependencies": {
     "bcrypt": "^6.0.0",
